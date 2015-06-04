@@ -1,7 +1,7 @@
 # Wordy-Gurdy
 A max 4 live MIDI effect that turns characters in to MIDI.
 
-![screenshot](https://github.com/triss/wordy-gurdy/master/screenshot.png)
+![screenshot](https://github.com/triss/Wordy-Gurdy/blob/master/screenshot.png)
 
 Inspired by the wonderful [ixi lang](http://www.ixi-audio.net/ixilang/), [Type Drummer](http://typedrummer.com/) and [MMODM](mmodm.co) this thing takes in a string of text and spits out MIDI notes. It can hence be used to produce melodies, rhythms, drive light shows or turn on and off your kettle.
 
@@ -11,7 +11,7 @@ Each letter in the alphabet can be assigned a MIDI note of your choice.
 
 The sequence steps can be triggered by an internal clock or by MIDI notes fed through it allowing it to be used as a weird arpegiator type thing or consume Live's grooves.
 
-[Download it here!](https://github.com/triss/wordy-gurdy/master/Wordy Gurdy.amxd)
+[Download it here!](https://github.com/triss/Wordy-Gurdy/blob/master/Wordy Gurdy.amxd)
 
 
 
