@@ -11,7 +11,7 @@ Each letter in the alphabet can be assigned a MIDI note of your choice.
 
 The sequence steps can be triggered by an internal clock or by MIDI notes fed through it allowing it to be used as a weird arpegiator type thing or consume Live's grooves.
 
-[Download it here!](https://github.com/triss/Wordy-Gurdy/blob/master/Wordy Gurdy.amxd)
+[Download it here!](https://github.com/triss/Wordy-Gurdy/blob/master/Wordy%20Gurdy.amxd?raw=true)
 
 
 
